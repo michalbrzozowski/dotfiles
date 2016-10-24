@@ -1,0 +1,127 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+actionRecord	/usr/include/c++/v1/cxxabi.h	/^	const char *actionRecord;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+additional	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t additional;$/;"	m	language:C++	struct:_Unwind_Exception::__anon6
+adjustedPtr	/usr/include/c++/v1/cxxabi.h	/^	void *adjustedPtr;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+barrier_cache	/usr/include/c++/v1/unwind-arm.h	/^	} barrier_cache;$/;"	m	language:C++	struct:_Unwind_Exception	typeref:struct:_Unwind_Exception::__anon4
+BEGIN_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-arm.h	/^#define BEGIN_PERSONALITY_FUNCTION(/;"	d	language:C++
+BEGIN_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-itanium.h	/^#define BEGIN_PERSONALITY_FUNCTION(/;"	d	language:C++
+bitpattern	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t bitpattern[4];$/;"	m	language:C++	struct:_Unwind_Exception::__anon5
+bitpattern	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t bitpattern[5];$/;"	m	language:C++	struct:_Unwind_Exception::__anon4
+CALL_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-arm.h	/^#define CALL_PERSONALITY_FUNCTION(/;"	d	language:C++
+CALL_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-itanium.h	/^#define CALL_PERSONALITY_FUNCTION(/;"	d	language:C++
+catchTemp	/usr/include/c++/v1/cxxabi.h	/^	void *catchTemp;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+caughtExceptions	/usr/include/c++/v1/cxxabi.h	/^	__cxa_exception *caughtExceptions;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_eh_globals
+cleanupCount	/usr/include/c++/v1/cxxabi.h	/^	int cleanupCount;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+cleanup_cache	/usr/include/c++/v1/unwind-arm.h	/^	} cleanup_cache;$/;"	m	language:C++	struct:_Unwind_Exception	typeref:struct:_Unwind_Exception::__anon5
+DECLARE_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-arm.h	/^#define DECLARE_PERSONALITY_FUNCTION(/;"	d	language:C++
+DECLARE_PERSONALITY_FUNCTION	/usr/include/c++/v1/unwind-itanium.h	/^#define DECLARE_PERSONALITY_FUNCTION(/;"	d	language:C++
+ehtp	/usr/include/c++/v1/unwind-arm.h	/^		_Unwind_EHT_Header *ehtp;$/;"	m	language:C++	struct:_Unwind_Exception::__anon6
+exceptionDestructor	/usr/include/c++/v1/cxxabi.h	/^	void (*exceptionDestructor) (void *); $/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+exceptionType	/usr/include/c++/v1/cxxabi.h	/^	std::type_info *exceptionType;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+exception_class	/usr/include/c++/v1/unwind-arm.h	/^	uint64_t exception_class;$/;"	m	language:C++	struct:_Unwind_Exception
+exception_class	/usr/include/c++/v1/unwind-itanium.h	/^    uint64_t exception_class;$/;"	m	language:C++	struct:_Unwind_Exception
+exception_cleanup	/usr/include/c++/v1/unwind-arm.h	/^	void (*exception_cleanup)(_Unwind_Reason_Code, struct _Unwind_Exception *);$/;"	m	language:C++	struct:_Unwind_Exception
+exception_cleanup	/usr/include/c++/v1/unwind-itanium.h	/^    _Unwind_Exception_Cleanup_Fn exception_cleanup;$/;"	m	language:C++	struct:_Unwind_Exception
+fnstart	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t fnstart;$/;"	m	language:C++	struct:_Unwind_Exception::__anon6
+handlerCount	/usr/include/c++/v1/cxxabi.h	/^	int handlerCount;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+handlerSwitchValue	/usr/include/c++/v1/cxxabi.h	/^	int handlerSwitchValue;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+languageSpecificData	/usr/include/c++/v1/cxxabi.h	/^	const char *languageSpecificData;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+nextCleanup	/usr/include/c++/v1/cxxabi.h	/^	_Unwind_Exception *nextCleanup;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+nextException	/usr/include/c++/v1/cxxabi.h	/^	__cxa_exception *nextException;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+private_1	/usr/include/c++/v1/unwind-itanium.h	/^    unsigned long private_1;$/;"	m	language:C++	struct:_Unwind_Exception
+private_2	/usr/include/c++/v1/unwind-itanium.h	/^    unsigned long private_2;$/;"	m	language:C++	struct:_Unwind_Exception
+pr_cache	/usr/include/c++/v1/unwind-arm.h	/^	} pr_cache;$/;"	m	language:C++	struct:_Unwind_Exception	typeref:struct:_Unwind_Exception::__anon6
+referenceCount	/usr/include/c++/v1/cxxabi.h	/^	uintptr_t referenceCount;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+reserved1	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved1;$/;"	m	language:C++	struct:_Unwind_Exception::__anon3
+reserved1	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved1;$/;"	m	language:C++	struct:_Unwind_Exception::__anon6
+reserved2	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved2;$/;"	m	language:C++	struct:_Unwind_Exception::__anon3
+reserved3	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved3;$/;"	m	language:C++	struct:_Unwind_Exception::__anon3
+reserved4	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved4;$/;"	m	language:C++	struct:_Unwind_Exception::__anon3
+reserved5	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t reserved5;$/;"	m	language:C++	struct:_Unwind_Exception::__anon3
+sp	/usr/include/c++/v1/unwind-arm.h	/^		uint32_t sp;$/;"	m	language:C++	struct:_Unwind_Exception::__anon4
+std	/usr/include/c++/v1/cxxabi.h	/^namespace std $/;"	n	language:C++
+terminateHandler	/usr/include/c++/v1/cxxabi.h	/^	terminate_handler terminateHandler;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+terminate_handler	/usr/include/c++/v1/cxxabi.h	/^typedef void (*terminate_handler)();$/;"	t	language:C++
+uncaughtExceptions	/usr/include/c++/v1/cxxabi.h	/^	unsigned int uncaughtExceptions;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_eh_globals
+unexpectedHandler	/usr/include/c++/v1/cxxabi.h	/^	unexpected_handler unexpectedHandler;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+unexpected_handler	/usr/include/c++/v1/cxxabi.h	/^typedef void (*unexpected_handler)();$/;"	t	language:C++
+unwinder_cache	/usr/include/c++/v1/unwind-arm.h	/^	} unwinder_cache;$/;"	m	language:C++	struct:_Unwind_Exception	typeref:struct:_Unwind_Exception::__anon3
+unwindHeader	/usr/include/c++/v1/cxxabi.h	/^	_Unwind_Exception unwindHeader;$/;"	m	language:C++	struct:__cxxabiv1::__cxa_exception
+UNWIND_H_INCLUDED	/usr/include/c++/v1/unwind.h	/^#define UNWIND_H_INCLUDED$/;"	d	language:C++
+_LIBCPP_COMPLEX_H	/usr/include/c++/v1/complex.h	/^#define _LIBCPP_COMPLEX_H$/;"	d	language:C++
+_LIBCPP_COMPLEX_H	/usr/include/c++/v1/tr1/complex.h	/^#define _LIBCPP_COMPLEX_H$/;"	d	language:C++
+_LIBCPP_TGMATH_H	/usr/include/c++/v1/tgmath.h	/^#define _LIBCPP_TGMATH_H$/;"	d	language:C++
+_LIBCPP_TGMATH_H	/usr/include/c++/v1/tr1/tgmath.h	/^#define _LIBCPP_TGMATH_H$/;"	d	language:C++
+_UA_CLEANUP_PHASE	/usr/include/c++/v1/unwind-arm.h	/^#define _UA_CLEANUP_PHASE	/;"	d	language:C++
+_UA_CLEANUP_PHASE	/usr/include/c++/v1/unwind-itanium.h	/^#define _UA_CLEANUP_PHASE	/;"	d	language:C++
+_UA_END_OF_STACK	/usr/include/c++/v1/unwind-itanium.h	/^# define _UA_END_OF_STACK	/;"	d	language:C++
+_UA_FORCE_UNWIND	/usr/include/c++/v1/unwind-arm.h	/^#define _UA_FORCE_UNWIND	/;"	d	language:C++
+_UA_FORCE_UNWIND	/usr/include/c++/v1/unwind-itanium.h	/^#define _UA_FORCE_UNWIND	/;"	d	language:C++
+_UA_HANDLER_FRAME	/usr/include/c++/v1/unwind-arm.h	/^#define _UA_HANDLER_FRAME	/;"	d	language:C++
+_UA_HANDLER_FRAME	/usr/include/c++/v1/unwind-itanium.h	/^#define _UA_HANDLER_FRAME	/;"	d	language:C++
+_UA_SEARCH_PHASE	/usr/include/c++/v1/unwind-arm.h	/^#define _UA_SEARCH_PHASE	/;"	d	language:C++
+_UA_SEARCH_PHASE	/usr/include/c++/v1/unwind-itanium.h	/^#define _UA_SEARCH_PHASE	/;"	d	language:C++
+_Unwind_Action	/usr/include/c++/v1/unwind-itanium.h	/^typedef int _Unwind_Action;$/;"	t	language:C++
+_Unwind_Context	/usr/include/c++/v1/unwind-arm.h	/^typedef struct _Unwind_Context _Unwind_Context;$/;"	t	language:C++	typeref:struct:_Unwind_Context
+_Unwind_EHT_Header	/usr/include/c++/v1/unwind-arm.h	/^typedef uint32_t _Unwind_EHT_Header;$/;"	t	language:C++
+_Unwind_Exception	/usr/include/c++/v1/unwind-arm.h	/^struct _Unwind_Exception$/;"	s	language:C++
+_Unwind_Exception	/usr/include/c++/v1/unwind-itanium.h	/^struct _Unwind_Exception$/;"	s	language:C++
+_Unwind_Exception_Cleanup_Fn	/usr/include/c++/v1/unwind-itanium.h	/^typedef void (*_Unwind_Exception_Cleanup_Fn) (_Unwind_Reason_Code,$/;"	t	language:C++
+_Unwind_GetGR	/usr/include/c++/v1/unwind-arm.h	/^static inline unsigned long _Unwind_GetGR(struct _Unwind_Context *context, int reg)$/;"	f	language:C++
+_Unwind_GetIP	/usr/include/c++/v1/unwind-arm.h	/^static inline unsigned long _Unwind_GetIP(_Unwind_Context *context)$/;"	f	language:C++
+_UNWIND_H	/usr/include/c++/v1/unwind-itanium.h	/^#define _UNWIND_H$/;"	d	language:C++
+_Unwind_Reason_Code	/usr/include/c++/v1/unwind-arm.h	/^} _Unwind_Reason_Code;$/;"	t	language:C++	typeref:enum:__anon2
+_Unwind_Reason_Code	/usr/include/c++/v1/unwind-itanium.h	/^_Unwind_Reason_Code;$/;"	t	language:C++	typeref:enum:__anon1
+_Unwind_SetGR	/usr/include/c++/v1/unwind-arm.h	/^static inline  void _Unwind_SetGR(struct _Unwind_Context *context, int reg, unsigned long val)$/;"	f	language:C++
+_Unwind_SetIP	/usr/include/c++/v1/unwind-arm.h	/^static inline void _Unwind_SetIP(_Unwind_Context *context, unsigned long val)$/;"	f	language:C++
+_Unwind_State	/usr/include/c++/v1/unwind-arm.h	/^typedef uint32_t _Unwind_State;$/;"	t	language:C++
+_Unwind_Stop_Fn	/usr/include/c++/v1/unwind-itanium.h	/^typedef _Unwind_Reason_Code (*_Unwind_Stop_Fn) (int, _Unwind_Action,$/;"	t	language:C++
+_Unwind_Trace_Fn	/usr/include/c++/v1/unwind-arm.h	/^typedef _Unwind_Reason_Code (*_Unwind_Trace_Fn) (struct _Unwind_Context *,$/;"	t	language:C++
+_Unwind_Trace_Fn	/usr/include/c++/v1/unwind-itanium.h	/^typedef _Unwind_Reason_Code (*_Unwind_Trace_Fn) (struct _Unwind_Context *,$/;"	t	language:C++
+_Unwind_VRS_DataRepresentation	/usr/include/c++/v1/unwind-arm.h	/^} _Unwind_VRS_DataRepresentation;$/;"	t	language:C++	typeref:enum:__anon9
+_Unwind_VRS_RegClass	/usr/include/c++/v1/unwind-arm.h	/^} _Unwind_VRS_RegClass;$/;"	t	language:C++	typeref:enum:__anon8
+_Unwind_VRS_Result	/usr/include/c++/v1/unwind-arm.h	/^} _Unwind_VRS_Result;$/;"	t	language:C++	typeref:enum:__anon7
+_URC_CONTINUE_UNWIND	/usr/include/c++/v1/unwind-arm.h	/^	_URC_CONTINUE_UNWIND = 8,$/;"	e	language:C++	enum:__anon2
+_URC_CONTINUE_UNWIND	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_CONTINUE_UNWIND = 8$/;"	e	language:C++	enum:__anon1
+_URC_END_OF_STACK	/usr/include/c++/v1/unwind-arm.h	/^    _URC_END_OF_STACK = 5,$/;"	e	language:C++	enum:__anon2
+_URC_END_OF_STACK	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_END_OF_STACK = 5,$/;"	e	language:C++	enum:__anon1
+_URC_FAILURE	/usr/include/c++/v1/unwind-arm.h	/^	_URC_FAILURE = 9,            \/* unspecified failure of some kind *\/$/;"	e	language:C++	enum:__anon2
+_URC_FATAL_PHASE1_ERROR	/usr/include/c++/v1/unwind-arm.h	/^	_URC_FATAL_PHASE1_ERROR = _URC_FAILURE$/;"	e	language:C++	enum:__anon2
+_URC_FATAL_PHASE1_ERROR	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_FATAL_PHASE1_ERROR = 3,$/;"	e	language:C++	enum:__anon1
+_URC_FATAL_PHASE2_ERROR	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_FATAL_PHASE2_ERROR = 2,$/;"	e	language:C++	enum:__anon1
+_URC_FOREIGN_EXCEPTION_CAUGHT	/usr/include/c++/v1/unwind-arm.h	/^	_URC_FOREIGN_EXCEPTION_CAUGHT = 1,$/;"	e	language:C++	enum:__anon2
+_URC_FOREIGN_EXCEPTION_CAUGHT	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_FOREIGN_EXCEPTION_CAUGHT = 1,$/;"	e	language:C++	enum:__anon1
+_URC_HANDLER_FOUND	/usr/include/c++/v1/unwind-arm.h	/^	_URC_HANDLER_FOUND = 6,$/;"	e	language:C++	enum:__anon2
+_URC_HANDLER_FOUND	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_HANDLER_FOUND = 6,$/;"	e	language:C++	enum:__anon1
+_URC_INSTALL_CONTEXT	/usr/include/c++/v1/unwind-arm.h	/^	_URC_INSTALL_CONTEXT = 7,$/;"	e	language:C++	enum:__anon2
+_URC_INSTALL_CONTEXT	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_INSTALL_CONTEXT = 7,$/;"	e	language:C++	enum:__anon1
+_URC_NORMAL_STOP	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_NORMAL_STOP = 4,$/;"	e	language:C++	enum:__anon1
+_URC_NO_REASON	/usr/include/c++/v1/unwind-itanium.h	/^    _URC_NO_REASON = 0,$/;"	e	language:C++	enum:__anon1
+_URC_OK	/usr/include/c++/v1/unwind-arm.h	/^	_URC_OK = 0,                \/* operation completed successfully *\/$/;"	e	language:C++	enum:__anon2
+_US_UNWIND_FRAME_RESUME	/usr/include/c++/v1/unwind-arm.h	/^#	define _US_UNWIND_FRAME_RESUME /;"	d	language:C++
+_US_UNWIND_FRAME_RESUME	/usr/include/c++/v1/unwind-arm.h	/^static const _Unwind_State _US_UNWIND_FRAME_RESUME   = 2;$/;"	v	language:C++
+_US_UNWIND_FRAME_STARTING	/usr/include/c++/v1/unwind-arm.h	/^#	define _US_UNWIND_FRAME_STARTING /;"	d	language:C++
+_US_UNWIND_FRAME_STARTING	/usr/include/c++/v1/unwind-arm.h	/^static const _Unwind_State _US_UNWIND_FRAME_STARTING = 1;$/;"	v	language:C++
+_US_VIRTUAL_UNWIND_FRAME	/usr/include/c++/v1/unwind-arm.h	/^#	define _US_VIRTUAL_UNWIND_FRAME /;"	d	language:C++
+_US_VIRTUAL_UNWIND_FRAME	/usr/include/c++/v1/unwind-arm.h	/^static const _Unwind_State _US_VIRTUAL_UNWIND_FRAME  = 0;$/;"	v	language:C++
+_UVRSC_CORE	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSC_CORE = 0,$/;"	e	language:C++	enum:__anon8
+_UVRSC_VFP	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSC_VFP = 1,$/;"	e	language:C++	enum:__anon8
+_UVRSC_WMMXC	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSC_WMMXC = 4$/;"	e	language:C++	enum:__anon8
+_UVRSC_WMMXD	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSC_WMMXD = 3,$/;"	e	language:C++	enum:__anon8
+_UVRSD_DOUBLE	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSD_DOUBLE = 5$/;"	e	language:C++	enum:__anon9
+_UVRSD_FLOAT	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSD_FLOAT = 4,$/;"	e	language:C++	enum:__anon9
+_UVRSD_UINT32	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSD_UINT32 = 0,$/;"	e	language:C++	enum:__anon9
+_UVRSD_UINT64	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSD_UINT64 = 3,$/;"	e	language:C++	enum:__anon9
+_UVRSD_VFPX	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSD_VFPX = 1,$/;"	e	language:C++	enum:__anon9
+_UVRSR_FAILED	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSR_FAILED = 2$/;"	e	language:C++	enum:__anon7
+_UVRSR_NOT_IMPLEMENTED	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSR_NOT_IMPLEMENTED = 1,$/;"	e	language:C++	enum:__anon7
+_UVRSR_OK	/usr/include/c++/v1/unwind-arm.h	/^	_UVRSR_OK = 0,$/;"	e	language:C++	enum:__anon7
+__cxa_eh_globals	/usr/include/c++/v1/cxxabi.h	/^struct __cxa_eh_globals$/;"	s	language:C++
+__cxa_exception	/usr/include/c++/v1/cxxabi.h	/^struct __cxa_exception$/;"	s	language:C++
+__cxxabiv1	/usr/include/c++/v1/cxxabi.h	/^namespace __cxxabiv1 {$/;"	n	language:C++
+__CXXABI_H_	/usr/include/c++/v1/cxxabi.h	/^#define __CXXABI_H_$/;"	d	language:C++

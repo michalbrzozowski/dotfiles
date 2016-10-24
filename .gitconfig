@@ -1,0 +1,20 @@
+[user]
+  email = michal.brzozowski@hotmail.com
+  name  = Michal Brzozowski
+[github]
+  user  = michalbrzozowski
+[color "status"]
+  added     = yellow
+  changed   = green
+  untracked = blue
+[alias]
+  st  = status
+  df  = difftool
+[init]
+  templatedir = ~/.git_template
+[diff]
+  tool = vimdiff
+[difftool]
+  prompt = false
+[core]
+  editor = vim
