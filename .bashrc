@@ -39,3 +39,5 @@ fi
 if [ -f "${HOME}/.bash_extra" ]; then
   source "${HOME}/.bash_extra"
 fi
+
+setxkbmap -layout us -option ctrl:nocaps
