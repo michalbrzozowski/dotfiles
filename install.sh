@@ -15,4 +15,5 @@ ln -s -f ~/repo/dotfiles/.git-prompt.sh       ~/.git-prompt.sh
 ln -s -f ~/repo/dotfiles/.vimrc               ~/.vimrc
 ln -s -f ~/repo/dotfiles/.vim                 ~/.vim
 
+ln -s -f ~/repo/dotfiles/.i3                  ~/.i3
 git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
