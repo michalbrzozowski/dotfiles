@@ -19,6 +19,7 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'bling/vim-airline'
 Plugin 'morhetz/gruvbox'
+Plugin 'NLKNguyen/papercolor-theme'
 
 call vundle#end()
 
@@ -61,11 +62,6 @@ set guioptions-=T  "remove toolbar
 set guioptions-=r  "remove right-hand scroll bar
 set guioptions-=L  "remove left-hand scroll bar
 
-set background=dark
-
-" colorscheme mekhai
-" colorscheme jellybeans
-" colorscheme gruvbox
 
 if has("gui_running")
   if has("gui_gtk2")
@@ -76,6 +72,14 @@ if has("gui_running")
 else
   set t_Co=256
 endif
+
+set background=dark
+" set background=light
+
+" colorscheme mekhai
+" colorscheme jellybeans
+" colorscheme gruvbox
+colorscheme PaperColor
 
 " -----------------------------------------------------------------------------
 " keybindings
